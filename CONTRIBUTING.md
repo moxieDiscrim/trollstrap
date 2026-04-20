@@ -1,3 +1,5 @@
+contribute by doing it yourself.
+
 *If a law is unjust, a man is not only right to disobey it, he is obligated to do so.*
 
 ## how to add support for .mesh and compile yourself
